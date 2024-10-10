@@ -1,4 +1,4 @@
-# ShoppingCart - An amazing website [![HitCount](http://hits.dwyl.io/ikismail/ShoppingCart.svg)](http://hits.dwyl.io/ikismail/ShoppingCart) 
+# ShoppingCart - An amazing website
 
 
 I have developed an end to end **Ecommerce web Application using Spring MVC** with multiple
